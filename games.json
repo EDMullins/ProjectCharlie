@@ -1,9 +1,9 @@
 {
   "games": {
     "game": {
-      "name": "",
-      "gameLink": "",
-      "repoLink": ""
+      "name": "Snap Test",
+      "gameLink": "https://plateplate.github.io/project-bravo/",
+      "repoLink": "https://github.com/plateplate/project-bravo"
     }
     "game": {
       "name": "Punching Bag",
