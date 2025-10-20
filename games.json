@@ -2,15 +2,18 @@
   "games": {
     "game": {
       "name": "",
-      "link": ""
+      "gameLink": "",
+      "repoLink": ""
     }
     "game": {
       "name": "",
-      "link": ""
+      "gameLink": "",
+      "repoLink": ""
     }
     "game": {
       "name": "",
-      "link": ""
+      "gameLink": "",
+      "repoLink": ""
     }
   }
 }
