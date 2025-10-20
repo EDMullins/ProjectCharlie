@@ -15,7 +15,7 @@ As a <ins>gamer</ins>, I want to <ins>have a collection of games</ins>, so that 
 
 
 ## Validation Results:
-[NU Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fedmullins.github.io%2FProjectCharlie%2F)
-[WAVE Validation](https://wave.webaim.org/report#/https://edmullins.github.io/ProjectCharlie/)
+*[NU Validation](https://validator.w3.org/nu/?doc=https%3A%2F%2Fedmullins.github.io%2FProjectCharlie%2F)
+*[WAVE Validation](https://wave.webaim.org/report#/https://edmullins.github.io/ProjectCharlie/)
 
 ## Code Base Overview
