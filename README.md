@@ -1,12 +1,12 @@
 # TEAM NAME:
-## MEMBERS: 
+# MEMBERS: 
 Tony Mendes, Ethan Mullins, Laine Stinnett
 
-# PRODUCT:
-## Description:
+## PRODUCT:
+### Description:
 
-User Story / Scenario:
+## User Story / Scenario:
 
-### Validation Results:
+## Validation Results:
 
-### Code Base Overview
+## Code Base Overview
