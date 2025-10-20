@@ -1,19 +1,19 @@
 {
-  "games": {
-    "game": {
+  "games": [
+    "game": [
       "name": "Snap Test",
       "gameLink": "https://plateplate.github.io/project-bravo/",
       "repoLink": "https://github.com/plateplate/project-bravo"
-    },
-    "game": {
+    ],
+    "game": [
       "name": "Punching Bag",
       "gameLink": "https://genovios.github.io/punching-bag-game/",
       "repoLink": "https://github.com/Genovios/punching-bag-game"
-    },
-    "game": {
+    ],
+    "game": [
       "name": "Fortune Clicker",
       "gameLink": "https://edmullins.github.io/FortuneClicker/",
       "repoLink": "https://github.com/EDMullins/FortuneClicker"
-    }
-  }
+    ]
+  ]
 }
