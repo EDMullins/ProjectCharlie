@@ -1,4 +1,4 @@
-# TEAM NAME: Uno Personas
+# TEAM NAME: *Uno Personas*
 ### MEMBERS: 
 Tony Mendes, Ethan Mullins, Laine Stinnett
 
