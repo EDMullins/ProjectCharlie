@@ -1,6 +1,6 @@
 $( document ).ready(function() {
     console.log( "ready!" );
-    fetch("https://EDMullins.github.io/ProjectCharlie/games.json")
+    fetch("games.json")
     .then(response => response.json())
     .then(data => {
         console.log("Games: ", data);
