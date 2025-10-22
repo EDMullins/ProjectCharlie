@@ -3,7 +3,8 @@
       {
         "name": "Snap Test",
         "repo": "https://github.com/plateplate/project-bravo",
-        "app": "https://plateplate.github.io/project-bravo/"
+        "app": "https://plateplate.github.io/project-bravo/",
+        "img": "https://github.com/plateplate/project-bravo/blob/main/images/snap-test-screenshot.png"
       },
       {
         "name": "Punching Bag",
@@ -85,4 +86,5 @@
     ]
 
   }
+
 
