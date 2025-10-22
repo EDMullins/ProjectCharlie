@@ -19,3 +19,10 @@ As a <ins>gamer</ins>, I want to <ins>have a collection of games</ins>, so that 
 - [WAVE Validation](https://wave.webaim.org/report#/https://edmullins.github.io/ProjectCharlie/)
 
 ## Code Base Overview
+- README.md
+- games.json
+- index.html
+- /styles
+  - /styles.css
+- /scripts
+  - scripts.js
