@@ -43,7 +43,7 @@
       {
         "name": "Match the Hello World phrase",
         "repo": "https://github.com/JohnWeatherford/vigilant-doodle-bravo",
-        "app"; "https://johnweatherford.github.io/vigilant-doodle-bravo/",
+        "app": "https://johnweatherford.github.io/vigilant-doodle-bravo/",
         "img": "https://github.com/user-attachments/assets/9232375f-61fb-4a6f-8adb-c4bb2b1df1eb"
       },
       {
@@ -85,3 +85,4 @@
     ]
 
   }
+
